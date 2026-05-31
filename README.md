@@ -6,6 +6,8 @@ Midnight Movie Club is a responsive landing page for a fictional community movie
 
 This project was created as part of the Codecademy Responsive Club Website challenge and demonstrates the use of semantic HTML, Flexbox layouts, responsive design principles, and modern CSS styling.
 
+Site: https://imabyrd.github.io/Codecademy-Project-Club-Homepage/
+
 ## Features
 
 * Responsive navigation bar
